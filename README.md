@@ -2,6 +2,16 @@
 
 A proof-of-concept &amp; explanation of Physical Use after Free class bugs, which allow for kernel exploitation.
 
+# Table of Contents
+
+[1. XNU: Memory Management](#xnu-memory-management)
+[2. Page Tables](#page-tables)
+[3. Physical Use After Free](#physical-use-after-free)
+[4. Exploitation](#exploitation)
+[5. Testing It Yourself](#testing-it-yourself)
+[6. Credits](#credits)
+
+
 # XNU: Memory Management
 
 XNU is the kernel used by iOS, MacOS & other Apple operating systems. The kernel is responsible for a lot of things, but one of the most important things is memory management.
