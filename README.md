@@ -4,12 +4,12 @@ A proof-of-concept &amp; explanation of Physical Use after Free class bugs, whic
 
 # Table of Contents
 
-[1. XNU: Memory Management](#xnu-memory-management)
-[2. Page Tables](#page-tables)
-[3. Physical Use After Free](#physical-use-after-free)
-[4. Exploitation](#exploitation)
-[5. Testing It Yourself](#testing-it-yourself)
-[6. Credits](#credits)
+- [1. XNU: Memory Management](#xnu-memory-management)
+- [2. Page Tables](#page-tables)
+- [3. Physical Use After Free](#physical-use-after-free)
+- [4. Exploitation](#exploitation)
+- [5. Testing It Yourself](#testing-it-yourself)
+- [6. Credits](#credits)
 
 
 # XNU: Memory Management
